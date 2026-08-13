@@ -1,0 +1,15 @@
+{
+  "name": "orbit-skills-marketplace",
+  "owner": {
+    "name": "Orbit Skills contributors"
+  },
+  "description": "Orbit Skills for traceable Organoid Database research workflows",
+  "plugins": [
+    {
+      "name": "orbit-skills",
+      "source": "./plugins/orbit-skills",
+      "description": "Nine API-grounded skills for traceable Organoid Database research workflows.",
+      "version": "0.2.9"
+    }
+  ]
+}

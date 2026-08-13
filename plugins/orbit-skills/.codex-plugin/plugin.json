@@ -1,0 +1,8 @@
+{
+  "name": "orbit-skills",
+  "version": "0.2.9",
+  "description": "Nine API-grounded skills for traceable Organoid Database research workflows.",
+  "author": "Orbit Skills contributors",
+  "license": "MIT",
+  "skills": "./skills/"
+}

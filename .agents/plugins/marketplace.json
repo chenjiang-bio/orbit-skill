@@ -1,0 +1,20 @@
+{
+  "name": "orbit-skills-marketplace",
+  "interface": {
+    "displayName": "Orbit Skills Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "orbit-skills",
+      "source": {
+        "source": "local",
+        "path": "./plugins/orbit-skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

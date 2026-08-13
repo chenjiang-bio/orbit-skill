@@ -1,0 +1,12 @@
+{
+  "name": "orbit-skills-marketplace",
+  "owner": {
+    "name": "Orbit Skills contributors"
+  },
+  "plugins": [
+    {
+      "name": "orbit-skills",
+      "source": "./plugins/orbit-skills"
+    }
+  ]
+}
